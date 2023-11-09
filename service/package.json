@@ -14,6 +14,7 @@
     "start": "esno ./src/index.ts"
   },
   "devDependencies": {
+    "@types/node": "^20.9.0",
     "esno": "^0.17.0"
   }
 }
